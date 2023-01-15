@@ -1,0 +1,7 @@
+node_modules
+dist
+reqs/next-tasks.txt
+globalConfig.json
+.env
+coverage
+.vscode
